@@ -56,7 +56,7 @@ README.md         # Hướng dẫn sử dụng
    ```
 3. Cập nhật thông tin website:
    ```php
-   define('SITE_URL', 'http://localhost/webcty');
+   define('SITE_URL', 'http://localhost/thiencotrilien');
    define('SITE_EMAIL', 'info@thiencotrilien.com');
    define('SITE_PHONE', '0909.123.456');
    ```

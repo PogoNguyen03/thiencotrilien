@@ -12,7 +12,7 @@ define('DB_PASS', '');
 // Cấu hình website
 define('SITE_NAME', 'Thiên Cơ Trí Liên');
 define('SITE_DESCRIPTION', 'Công ty SEO hàng đầu Việt Nam - Tối ưu hóa website, tăng thứ hạng Google');
-define('SITE_URL', 'http://localhost/webcty');
+define('SITE_URL', 'http://localhost/thiencotrilien');
 define('SITE_EMAIL', 'info@thiencotrilien.com');
 define('SITE_PHONE', '0909.123.456');
 
