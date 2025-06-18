@@ -1,0 +1,72 @@
+/* FOOTER - Gutenify Exosphere Style */
+.footer p,
+.footer .text-muted,
+.footer-section span {
+    color: #94a3b8 !important; /* màu xám nhẹ hơn */
+}
+
+.footer {
+    background: #0f172a !important;
+    color: #fff;
+    padding: 64px 0 32px 0;
+    font-size: 1.1rem;
+}
+.footer-section h5, .footer-section h6 {
+    font-size: 1.5rem; /* lớn hơn để giống ảnh */
+    font-weight: 800;
+    color: #ffffff;
+}
+.footer-section a {
+    color: #fbbf24;
+    text-decoration: underline;
+    transition: color 0.2s;
+    font-weight: 500;
+}
+.footer-section a:hover {
+    color: #f59e0b;
+}
+.footer .social-links a {
+    color: #fbbf24;
+    font-size: 1.3rem;
+    margin-right: 1rem;
+    transition: color 0.2s, transform 0.2s;
+}
+.footer .social-links a:hover {
+    color: #fff;
+    transform: translateY(-2px) scale(1.1);
+}
+.footer .newsletter-form input[type="email"] {
+    border-radius: 8px;
+    border: none;
+    padding: 0.7rem 1rem;
+    font-size: 1.1rem;
+    margin-right: 0.5rem;
+}
+.footer .newsletter-form button {
+    background: #fbbf24;
+    color: #222;
+    border-radius: 8px;
+    border: none;
+    padding: 0.7rem 1.5rem;
+    font-weight: 700;
+    font-size: 1.1rem;
+    transition: background 0.2s;
+}
+.footer .newsletter-form button:hover {
+    background: #f59e0b;
+    color: #fff;
+}
+.footer .copyright {
+    color: #cbd5e1;
+    font-size: 1rem;
+    margin-top: 2rem;
+}
+@media (max-width: 991.98px) {
+    .footer {
+        padding: 40px 0 24px 0;
+        font-size: 1rem;
+    }
+    .footer-section h5, .footer-section h6 {
+        font-size: 1.15rem;
+    }
+} 

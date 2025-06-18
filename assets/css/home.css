@@ -1,0 +1,102 @@
+/* HOME PAGE - Gutenify Exosphere Style */
+.hero-section {
+    background: #f8fafc;
+    padding: 100px 0 80px 0;
+    text-align: center;
+}
+.hero-title {
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin-bottom: 1.5rem;
+    letter-spacing: -1px;
+}
+.hero-subtitle {
+    font-size: 1.3rem;
+    color: #64748b;
+    margin-bottom: 2.5rem;
+}
+.hero-btn {
+    background: #fbbf24;
+    color: #222;
+    font-weight: 700;
+    font-size: 1.15rem;
+    border-radius: 8px;
+    padding: 0.9rem 2.2rem;
+    border: none;
+    margin: 0 0.5rem;
+    transition: background 0.2s;
+    box-shadow: 0 4px 16px rgba(251,191,36,0.08);
+}
+.hero-btn:hover {
+    background: #f59e0b;
+    color: #fff;
+}
+.section {
+    padding: 80px 0;
+}
+.section-title {
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin-bottom: 2.5rem;
+    text-align: center;
+    letter-spacing: -1px;
+}
+.card {
+    border-radius: 18px;
+    box-shadow: 0 4px 24px rgba(30,64,175,0.06);
+    border: none;
+    background: #fff;
+    padding: 2.5rem 2rem;
+    margin-bottom: 2rem;
+}
+.card-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #1e293b;
+}
+.card-text {
+    color: #64748b;
+    font-size: 1.1rem;
+}
+.btn-yellow {
+    background: #fbbf24;
+    color: #222;
+    font-weight: 700;
+    border-radius: 8px;
+    padding: 0.7rem 1.7rem;
+    border: none;
+    font-size: 1.1rem;
+    transition: background 0.2s;
+}
+.btn-yellow:hover {
+    background: #f59e0b;
+    color: #fff;
+}
+.stats-section {
+    background: #fef9c3;
+    color: #1e293b;
+    padding: 60px 0;
+}
+.stat-item {
+    text-align: center;
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 1.2rem;
+}
+.stat-label {
+    font-size: 1.1rem;
+    color: #64748b;
+}
+@media (max-width: 991.98px) {
+    .hero-title {
+        font-size: 2.2rem;
+    }
+    .section-title {
+        font-size: 1.5rem;
+    }
+    .card {
+        padding: 1.5rem 1rem;
+    }
+} 
