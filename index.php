@@ -19,7 +19,8 @@ require_once 'templates/header.php';
         <div class="section-title">Giá trị cốt lõi</div>
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="<?php echo SITE_URL; ?>/assets/images/core-values.jpg" alt="Core Values" class="img-fluid rounded shadow">
+                <!-- <img src="<?php echo SITE_URL; ?>/assets/images/core-values.jpg" alt="Core Values" class="img-fluid rounded shadow"> -->
+                <img src="https://seoking.vn/wp-content/uploads/2018/02/1440886164_interaction.png" alt="Core Values" class="img-fluid rounded shadow">
             </div>
             <div class="col-lg-6">
                 <div class="card mb-4">
@@ -36,7 +37,8 @@ require_once 'templates/header.php';
         </div>
         <div class="row align-items-center mt-5 flex-lg-row-reverse">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="<?php echo SITE_URL; ?>/assets/images/mission.jpg" alt="Mission" class="img-fluid rounded shadow">
+                <!-- <img src="<?php echo SITE_URL; ?>/assets/images/mission.jpg" alt="Mission" class="img-fluid rounded shadow"> -->
+                <img src="https://tenten.vn/tin-tuc/wp-content/uploads/2022/05/Tai-sao-doanh-nghiep-can-thiet-ke-website-chuan-SEO.jpg" alt="Mission" class="img-fluid rounded shadow">
             </div>
             <div class="col-lg-6">
                 <div class="card mb-4">
@@ -73,7 +75,7 @@ require_once 'templates/header.php';
     </div>
 </section>
 <!-- Projects Section -->
-<section class="section">
+<!-- <section class="section">
     <div class="container">
         <div class="section-title">Dự án tiêu biểu</div>
         <div class="row">
@@ -100,7 +102,7 @@ require_once 'templates/header.php';
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- Testimonials Section -->
 <section class="section" style="background:#f8fafc;">
     <div class="container">
@@ -110,7 +112,8 @@ require_once 'templates/header.php';
                 <div class="card text-center">
                     <div class="card-text mb-3">"Dịch vụ SEO rất chuyên nghiệp, website của tôi tăng trưởng rõ rệt chỉ sau 3 tháng!"</div>
                     <div class="d-flex align-items-center justify-content-center gap-3">
-                        <img src="<?php echo SITE_URL; ?>/assets/images/avatar1.jpg" alt="Avatar" class="rounded-circle" width="48">
+                        <!-- <img src="<?php echo SITE_URL; ?>/assets/images/avatar1.jpg" alt="Avatar" class="rounded-circle" width="48"> -->
+                        <img src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/11/20/856165/Img2904-159927756318.jpg" alt="Avatar" class="rounded-circle" width="48" heigh="48">
                         <div>
                             <div class="fw-bold">Nguyễn Văn A</div>
                             <div class="text-muted" style="font-size:0.95rem;">CEO ABC Corp</div>
@@ -122,7 +125,8 @@ require_once 'templates/header.php';
                 <div class="card text-center">
                     <div class="card-text mb-3">"Đội ngũ hỗ trợ tận tâm, giải pháp SEO minh bạch, hiệu quả thực tế."</div>
                     <div class="d-flex align-items-center justify-content-center gap-3">
-                        <img src="<?php echo SITE_URL; ?>/assets/images/avatar2.jpg" alt="Avatar" class="rounded-circle" width="48">
+                        <!-- <img src="<?php echo SITE_URL; ?>/assets/images/avatar2.jpg" alt="Avatar" class="rounded-circle" width="48"> -->
+                        <img src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/11/20/856165/Img2904-159927756318.jpg" alt="Avatar" class="rounded-circle" width="48" heigh="48">
                         <div>
                             <div class="fw-bold">Trần Thị B</div>
                             <div class="text-muted" style="font-size:0.95rem;">Marketing Manager</div>
@@ -134,7 +138,8 @@ require_once 'templates/header.php';
                 <div class="card text-center">
                     <div class="card-text mb-3">"Tôi rất hài lòng với kết quả SEO, doanh thu tăng trưởng vượt mong đợi."</div>
                     <div class="d-flex align-items-center justify-content-center gap-3">
-                        <img src="<?php echo SITE_URL; ?>/assets/images/avatar3.jpg" alt="Avatar" class="rounded-circle" width="48">
+                        <!-- <img src="<?php echo SITE_URL; ?>/assets/images/avatar3.jpg" alt="Avatar" class="rounded-circle" width="48"> -->
+                        <img src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2020/11/20/856165/Img2904-159927756318.jpg" alt="Avatar" class="rounded-circle" width="48" heigh="48">
                         <div>
                             <div class="fw-bold">Lê Văn C</div>
                             <div class="text-muted" style="font-size:0.95rem;">Founder Startup X</div>
@@ -152,7 +157,7 @@ require_once 'templates/header.php';
         <div class="row">
             <div class="col-md-3 mb-4">
                 <div class="card text-center">
-                    <img src="<?php echo SITE_URL; ?>/assets/images/team1.jpg" alt="Team 1" class="img-fluid rounded-circle mb-3" width="96">
+                    <img src="<?php echo SITE_URL; ?>/assets/images/staff/team1.jpg" alt="Team 1" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Nguyễn Văn A</div>
                     <div class="text-muted mb-2">SEO Leader</div>
                     <div>
@@ -164,7 +169,7 @@ require_once 'templates/header.php';
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card text-center">
-                    <img src="<?php echo SITE_URL; ?>/assets/images/team2.jpg" alt="Team 2" class="img-fluid rounded-circle mb-3" width="96">
+                    <img src="<?php echo SITE_URL; ?>/assets/images/staff/team2.jpg" alt="Team 2" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Trần Thị B</div>
                     <div class="text-muted mb-2">Content Manager</div>
                     <div>
@@ -176,7 +181,7 @@ require_once 'templates/header.php';
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card text-center">
-                    <img src="<?php echo SITE_URL; ?>/assets/images/team3.jpg" alt="Team 3" class="img-fluid rounded-circle mb-3" width="96">
+                    <img src="<?php echo SITE_URL; ?>/assets/images/staff/team3.jpg" alt="Team 3" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Lê Văn C</div>
                     <div class="text-muted mb-2">Technical SEO</div>
                     <div>
@@ -188,7 +193,7 @@ require_once 'templates/header.php';
             </div>
             <div class="col-md-3 mb-4">
                 <div class="card text-center">
-                    <img src="<?php echo SITE_URL; ?>/assets/images/team4.jpg" alt="Team 4" class="img-fluid rounded-circle mb-3" width="96">
+                    <img src="<?php echo SITE_URL; ?>/assets/images/staff/team4.jpg" alt="Team 4" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Phạm Minh D</div>
                     <div class="text-muted mb-2">Ads Specialist</div>
                     <div>

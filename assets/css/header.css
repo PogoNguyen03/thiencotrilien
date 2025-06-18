@@ -1,6 +1,6 @@
 /* HEADER - Gutenify Exosphere Style */
 .header, .custom-navbar {
-    min-height: 80px;
+    min-height: 10rem;
     background: #fff !important;
     border-bottom: 1px solid #e5e7eb;
     box-shadow: 0 2px 8px rgba(30,64,175,0.03);

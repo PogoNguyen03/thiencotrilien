@@ -17,12 +17,12 @@ require_once 'templates/header.php';
 </section>
 
 <!-- Contact Section -->
-<section class="section">
+<section class="section m-5">
     <div class="container">
         <div class="row">
             <div class="col-lg-8">
                 <div class="contact-form">
-                    <h3 class="mb-4">Gửi Tin Nhắn Cho Chúng Tôi</h3>
+                    <h3 class="mb-5">Gửi Tin Nhắn Cho Chúng Tôi</h3>
                     <p class="text-muted mb-4">Điền thông tin bên dưới để được tư vấn SEO miễn phí và nhận báo giá chi tiết</p>
                     
                     <form id="contactForm" method="POST" action="">
@@ -119,7 +119,7 @@ require_once 'templates/header.php';
             </div>
             
             <div class="col-lg-4">
-                <div class="contact-info">
+                <div class="contact-info-page">
                     <h3 class="mb-4">Thông Tin Liên Hệ</h3>
                     
                     <div class="contact-item mb-4">
@@ -195,10 +195,10 @@ require_once 'templates/header.php';
 </section>
 
 <!-- Map Section -->
-<section class="section bg-light">
+<section class="section bg-light" style="padding-bottom: 3rem;">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center mb-5">
+            <div class="col-12 text-center my-5">
                 <h2 class="section-title">Vị Trí Của Chúng Tôi</h2>
                 <p class="text-muted">Ghé thăm văn phòng Thiên Cơ Trí Liên tại trung tâm TP.Hồ Chí Minh</p>
             </div>
@@ -221,7 +221,7 @@ require_once 'templates/header.php';
 </section>
 
 <!-- FAQ Section -->
-<section class="section">
+<section class="section m-5">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center mb-5">
@@ -295,9 +295,9 @@ require_once 'templates/header.php';
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
 }
 
-.contact-info {
+.contact-info-page {
     background: white;
-    padding: 2rem;
+    padding: 0rem 2rem 2rem 2rem;
     border-radius: 16px;
     box-shadow: var(--shadow-light);
     height: fit-content;
@@ -404,7 +404,7 @@ require_once 'templates/header.php';
 
 /* Responsive adjustments */
 @media (max-width: 768px) {
-    .contact-info {
+    .contact-info-page {
         position: static;
         margin-top: 2rem;
     }

@@ -11,7 +11,10 @@
     <link rel="icon" type="image/x-icon" href="<?php echo SITE_URL; ?>/assets/images/favicon.ico">
     
     <!-- CSS Files -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"> -->
+     <!-- Dùng trực tiếp CDN, không cần tải về -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="<?php echo SITE_URL; ?>/assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo SITE_URL; ?>/assets/css/font-awesome.min.css">
     <link rel="stylesheet" href="<?php echo SITE_URL; ?>/assets/css/header.css">
@@ -48,10 +51,10 @@
                     <a href="#" class="lang-icon" title="English"><img src="<?php echo SITE_URL; ?>/assets/images/flag/flag-en.png" alt="EN" width="20"></a>
                     <a href="#" class="lang-icon" title="Vietnamese"><img src="<?php echo SITE_URL; ?>/assets/images/flag/flag-vn.png" alt="VN" width="20"></a>
                     <!-- Social Icons -->
-                    <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                    <a href="#" class="social-icon"><i class="fa fa-youtube-play"></i></a>
+                    <!-- <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
+                    <a href="#" class="social-icon"><i class="fa fa-youtube-play"></i></a> -->
                     <!-- CTA Button -->
-                    <a href="<?php echo SITE_URL; ?>/contact.php" class="btn btn-primary btn-cta ms-2 d-none d-lg-inline-flex">
+                    <a href="<?php echo SITE_URL; ?>/contact.php" class="btn btn-primary btn-cta ms-2 d-none d-lg-inline-flex align-items-center">
                         <i class="fa fa-phone"></i> Tư vấn miễn phí
                     </a>
                 </div>

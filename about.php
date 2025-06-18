@@ -22,17 +22,17 @@ require_once 'templates/header.php';
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-content">
-                    <h2 class="mb-4">Công ty SEO hàng đầu Việt Nam</h2>
-                    <p class="lead mb-4">
+                    <h2 class="my-5">Công ty SEO hàng đầu Việt Nam</h2>
+                    <p class="lead my-5">
                         Thiên Cơ Trí Liên được thành lập với sứ mệnh giúp các doanh nghiệp Việt Nam tăng cường sự hiện diện trực tuyến 
                         và đạt được thành công trong thời đại số.
                     </p>
-                    <p class="mb-4">
+                    <p class="my-5">
                         Với hơn 5 năm kinh nghiệm trong lĩnh vực SEO và Digital Marketing, chúng tôi đã đồng hành cùng hàng trăm doanh nghiệp 
                         từ các lĩnh vực khác nhau, từ startup đến các tập đoàn lớn, giúp họ tăng thứ hạng Google, thu hút khách hàng tiềm năng 
                         và tăng doanh số bán hàng.
                     </p>
-                    <p class="mb-4">
+                    <p class="my-5">
                         Đội ngũ của chúng tôi bao gồm các chuyên gia SEO, content writer, designer và developer giàu kinh nghiệm, 
                         luôn cập nhật những xu hướng và công nghệ mới nhất trong lĩnh vực digital marketing.
                     </p>
@@ -70,10 +70,10 @@ require_once 'templates/header.php';
 </section>
 
 <!-- Mission & Vision Section -->
-<section class="section bg-light">
+<section class="section bg-light" style="padding-bottom: 3rem;">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center mb-5">
+            <div class="col-12 text-center my-5">
                 <h2 class="section-title">Sứ Mệnh & Tầm Nhìn</h2>
             </div>
         </div>
@@ -114,7 +114,7 @@ require_once 'templates/header.php';
 <section class="section">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center mb-5">
+            <div class="col-12 text-center my-5">
                 <h2 class="section-title">Giá Trị Cốt Lõi</h2>
             </div>
         </div>
@@ -160,10 +160,10 @@ require_once 'templates/header.php';
 </section>
 
 <!-- Team Section -->
-<section class="section bg-light">
+<section class="section bg-light" style="padding-bottom: 3rem;">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center mb-5">
+            <div class="col-12 text-center my-5">
                 <h2 class="section-title">Đội Ngũ Chuyên Gia</h2>
                 <p class="text-muted">Gặp gỡ những con người tài năng đằng sau thành công của Thiên Cơ Trí Liên</p>
             </div>
@@ -228,7 +228,7 @@ require_once 'templates/header.php';
 <section class="section">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center mb-5">
+            <div class="col-12 text-center my-5">
                 <h2 class="section-title">Quy Trình Làm Việc</h2>
                 <p class="text-muted">Chúng tôi tuân thủ quy trình làm việc chuyên nghiệp để đảm bảo kết quả tối ưu</p>
             </div>
@@ -267,10 +267,10 @@ require_once 'templates/header.php';
 </section>
 
 <!-- CTA Section -->
-<section class="section bg-primary text-white">
+<section class="section bg-primary text-white" style="height: 15rem;">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-12 text-center my-5">
                 <h2 class="mb-4">Sẵn Sàng Bắt Đầu Dự Án SEO?</h2>
                 <p class="lead mb-4">
                     Hãy để chúng tôi giúp doanh nghiệp của bạn tăng thứ hạng Google và thu hút khách hàng tiềm năng

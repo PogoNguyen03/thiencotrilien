@@ -1,7 +1,7 @@
 </main>
 
 <!-- Footer -->
-<footer class="footer bg-dark text-light py-5 mt-5">
+<footer class="footer bg-dark text-light py-5">
     <link rel="stylesheet" href="<?php echo SITE_URL; ?>/assets/css/footer.css">
     <div class="container">
         <div class="row">
