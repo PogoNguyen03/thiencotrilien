@@ -141,7 +141,7 @@ require_once 'templates/header.php';
                         <h5>Điện thoại</h5>
                         <p class="text-muted mb-0">
                             <a href="tel:<?php echo SITE_PHONE; ?>" class="text-decoration-none"><?php echo SITE_PHONE; ?></a><br>
-                            <small>Thứ 2 - Thứ 6: 8:00 - 18:00</small>
+                            <small>Thứ 2 - Thứ 7: 9:00 - 18:00</small>
                         </p>
                     </div>
                     
@@ -162,8 +162,7 @@ require_once 'templates/header.php';
                         </div>
                         <h5>Giờ làm việc</h5>
                         <p class="text-muted mb-0">
-                            Thứ 2 - Thứ 6: 8:00 - 18:00<br>
-                            Thứ 7: 8:00 - 12:00<br>
+                            Thứ 2 - Thứ 7: 9:00 - 18:00<br>
                             Chủ nhật: Nghỉ
                         </p>
                     </div>

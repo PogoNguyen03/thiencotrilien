@@ -173,7 +173,7 @@ require_once 'templates/header.php';
                 <div class="team-card text-center">
                     <div class="team-avatar mb-3">
                         <div class="avatar-placeholder">
-                            <i class="fa fa-user fa-3x text-white"></i>
+                            <i class="fa fa-user fa-3x text-black"></i>
                         </div>
                     </div>
                     <h5>Nguyễn Văn A</h5>
@@ -190,7 +190,7 @@ require_once 'templates/header.php';
                 <div class="team-card text-center">
                     <div class="team-avatar mb-3">
                         <div class="avatar-placeholder">
-                            <i class="fa fa-user fa-3x text-white"></i>
+                            <i class="fa fa-user fa-3x text-black"></i>
                         </div>
                     </div>
                     <h5>Trần Thị B</h5>
@@ -207,7 +207,7 @@ require_once 'templates/header.php';
                 <div class="team-card text-center">
                     <div class="team-avatar mb-3">
                         <div class="avatar-placeholder">
-                            <i class="fa fa-user fa-3x text-white"></i>
+                            <i class="fa fa-user fa-3x text-black"></i>
                         </div>
                     </div>
                     <h5>Lê Văn C</h5>
@@ -367,7 +367,7 @@ require_once 'templates/header.php';
     width: 60px;
     height: 60px;
     background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
-    color: white;
+    color: black;
     border-radius: 50%;
     display: flex;
     align-items: center;

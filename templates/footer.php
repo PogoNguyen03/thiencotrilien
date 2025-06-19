@@ -9,7 +9,7 @@
             <div class="col-lg-3 col-md-6 mb-4">
                 <div class="footer-section">
                     <h5 class="text-white mb-3">
-                        <img src="<?php echo SITE_URL; ?>/assets/images/logo-white.png" alt="<?php echo SITE_NAME; ?>"
+                        <img src="<?php echo SITE_URL; ?>/assets/images/logo-vi-white.png" alt="<?php echo SITE_NAME; ?>"
                             height="30" class="me-2">
                         <?php echo SITE_NAME; ?>
                     </h5>

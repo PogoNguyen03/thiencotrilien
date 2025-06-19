@@ -155,7 +155,7 @@ require_once 'templates/header.php';
     <div class="container">
         <div class="section-title">Đội ngũ chuyên gia</div>
         <div class="row">
-            <div class="col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-3 mb-4">
                 <div class="card text-center">
                     <img src="<?php echo SITE_URL; ?>/assets/images/staff/team1.jpg" alt="Team 1" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Nguyễn Văn A</div>
@@ -167,7 +167,7 @@ require_once 'templates/header.php';
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-3 mb-4">
                 <div class="card text-center">
                     <img src="<?php echo SITE_URL; ?>/assets/images/staff/team2.jpg" alt="Team 2" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Trần Thị B</div>
@@ -179,7 +179,7 @@ require_once 'templates/header.php';
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-3 mb-4">
                 <div class="card text-center">
                     <img src="<?php echo SITE_URL; ?>/assets/images/staff/team3.jpg" alt="Team 3" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Lê Văn C</div>
@@ -191,7 +191,7 @@ require_once 'templates/header.php';
                     </div>
                 </div>
             </div>
-            <div class="col-md-4 mb-4">
+            <div class="col-12 col-sm-6 col-lg-3 mb-4">
                 <div class="card text-center">
                     <img src="<?php echo SITE_URL; ?>/assets/images/staff/team4.jpg" alt="Team 4" class="img-fluid team rounded-circle mb-3" width="96" height="96">
                     <div class="fw-bold">Phạm Minh D</div>

@@ -50,9 +50,7 @@
                     <!-- Language Switcher -->
                     <a href="#" class="lang-icon" title="English"><img src="<?php echo SITE_URL; ?>/assets/images/flag/flag-en.png" alt="EN" width="20"></a>
                     <a href="#" class="lang-icon" title="Vietnamese"><img src="<?php echo SITE_URL; ?>/assets/images/flag/flag-vn.png" alt="VN" width="20"></a>
-                    <!-- Social Icons -->
-                    <!-- <a href="#" class="social-icon"><i class="fa fa-facebook"></i></a>
-                    <a href="#" class="social-icon"><i class="fa fa-youtube-play"></i></a> -->
+                    
                     <!-- CTA Button -->
                     <a href="<?php echo SITE_URL; ?>/contact.php" class="btn btn-primary btn-cta ms-2 d-none d-lg-inline-flex align-items-center">
                         <i class="fa fa-phone"></i> Tư vấn miễn phí
