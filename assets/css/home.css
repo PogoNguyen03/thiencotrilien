@@ -38,6 +38,7 @@
     margin-bottom: 2.5rem;
 }
 .hero-btn {
+    text-decoration: none;
     background: #fbbf24;
     color: #222;
     font-weight: 700;

@@ -18,7 +18,7 @@
 }
 .footer-section a {
     color: #fbbf24;
-    text-decoration: underline;
+    text-decoration: none !important;
     transition: color 0.2s;
     font-weight: 500;
 }

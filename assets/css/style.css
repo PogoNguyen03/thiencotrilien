@@ -861,4 +861,8 @@ p {
         min-width: 120px;
         padding: 0.5rem 1rem;
     }
+}
+
+a {
+    text-decoration: none !important;
 } 
